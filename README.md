@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MsCobbins
+- 👀 I’m interested in all things tech
+- 🌱 I’m currently learning Angular...
+- 📫 How to reach me www.linkedin.com/in/erin-cobbins-a9a2a7292
