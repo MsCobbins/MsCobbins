@@ -1,0 +1,132 @@
+BioProjectStyle.css
+/* styles.css*/ 
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.intro {
+  padding-top: 200px;
+  padding-bottom: 50px;
+  height: 800px;
+  color: #49e0f4;
+  text-align: center;
+  background: url('https://sunghun67.cafe24.com/files/attach/images/120/8eefcd2b799d7e97c10164898f1a66ba.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.intro:before {
+  height: 800px;
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
+  background-size: cover;
+  opacity: .8;
+}
+
+.skills {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.right-side {
+  text-align: center;
+  padding-top: 10px;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+.social i {
+  width: 70px;
+  height: 70px;
+  color: #FFF;
+  background-color: grey;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 23px;
+  border-radius: 50%;
+  margin-left: 10px;
+  opacity: .6;
+}
+
+li {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.fa {
+  line-height: 50px;
+}
+
+.view_portfolio social {
+  padding-top: 100px;
+  color: white;
+}
+
+.about {
+  padding-top: 50px;
+  min-height: 100%;
+  color: #999999;
+  text-align: left;
+  background-color: #262626;
+  background-size: cover;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.selfie img {
+  border-radius: 60%;
+}
+
+.projects {
+  margin-top: -5px;
+  padding-top: 50px;
+  min-height: 100%;
+  color: white;
+  text-align: center;
+  background: url('https://wallpaperscraft.com/image/glare_background_blur_dark_63553_2560x1440.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.social ul li {
+  padding: 5px 50px 5px 5px;
+  align: center;
+}
+
+.contact-container {
+  position: relative;
+}
+
+.contact {
+  padding-top: 50px;
+  min-height: 800px;
+  color: white;
+  text-align: center;
+  background: url('https://static.pexels.com/photos/1459/street-car-vehicle-blur.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.contact li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0 1em;
+  text-align: center;
+}
+
+.contact p {
+  text-align: center;
+}
+
+.cont {
+  text-align: center;
+}
+
+footer {
+  margin-top: -20px;
+}
